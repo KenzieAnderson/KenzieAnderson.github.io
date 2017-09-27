@@ -45,7 +45,7 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-body { 
+body { text-indent:
   font-family: sans-serif
   font color: purple;
   }
