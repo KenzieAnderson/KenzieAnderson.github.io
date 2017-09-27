@@ -18,7 +18,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body { 
-  line-height: 1; }
+  line-height: 1.5; }
 
 ol, ul {
   list-style: none; }
@@ -61,6 +61,7 @@ h1 {
  font-size: 8em;
  color: powderblue; 
  font-family: sans-serif;
+ text-align: center
 
   }
 
@@ -68,14 +69,12 @@ p {
     color: turquoise;
     font-size: 5em;
     font-family: sans-serif;
-}
-
-div {
-    color: red;
+    text-align: center
 }
 
 body {
     background-color: pink;
     font-family: sans-serif;
-    font-size-adjust: 3em
- 
+    text-align: center;
+    color: green;
+ }
