@@ -38,7 +38,7 @@ q, blockquote {
     content: "";
     content: none; }
 
-a img {
+a img { 
   border: none; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
@@ -59,10 +59,15 @@ a {
 
 h1 {
  font-size: 8em;
- color: turquoise;
+ color: turquoise; 
  font-family: sans-serif; }
 
-div {font-family: sans-serif; }
+p {
+    color: red;
+    font-size: 5em;
+}
+
+<link rel="here" href="https://www.youtube.com/watch?v=RTTeuqHVIJE">
 
 
  
