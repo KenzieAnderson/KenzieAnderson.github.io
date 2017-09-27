@@ -18,7 +18,7 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
-body {
+body { f
   line-height: 1; }
 
 ol, ul {
@@ -45,9 +45,7 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-body {
-  font-family: times new roman;
-  color: purple; }
+body 
 
 a {
   color: #0388a6; }
@@ -57,11 +55,11 @@ a {
 #main {
   padding: 50px; }
 
+p { font color: turquoise;
+
+ }
 
 
-h1 {
-  font size: 8em;
-  color: green
 
 
-  }
+ 
