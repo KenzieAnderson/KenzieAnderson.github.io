@@ -59,15 +59,23 @@ a {
 
 h1 {
  font-size: 8em;
- color: turquoise; 
- font-family: sans-serif; }
+ color: powderblue; 
+ font-family: sans-serif;
+
+  }
 
 p {
-    color: red;
+    color: turquoise;
     font-size: 5em;
+    font-family: sans-serif;
 }
 
-<link rel="here" href="https://www.youtube.com/watch?v=RTTeuqHVIJE">
+div {
+    color: red;
+}
 
-
+body {
+    background-color: pink;
+    font-family: sans-serif;
+    font-size-adjust: 3em
  
