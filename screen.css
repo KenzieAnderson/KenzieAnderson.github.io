@@ -1,6 +1,5 @@
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
+h1, h2, h3, h4, h5, h6,p,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
@@ -14,7 +13,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 50%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -29,8 +28,8 @@ table {
   border-spacing: 0; }
 
 caption, th, td {
-  text-align: left;
-  font-weight: normal;
+  text-align: center;
+  font-weight: bold;
   vertical-align: middle; }
 
 q, blockquote {
@@ -45,13 +44,12 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-body { text-indent:
-  font-family: sans-serif
-  font color: purple;
+body {font-family: sans-serif
+  font-size: 5em;
   }
 
 a {
-  color: #0388a6; }
+  color: purple; }
   a:hover {
     color: #009ce0; }
 
@@ -64,7 +62,9 @@ h1 {
  font-style: serif; 
 }
 
-div {font size: 5em;
+div {
+  font color: purple;
+
 }
 
 
