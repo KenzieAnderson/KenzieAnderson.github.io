@@ -49,7 +49,7 @@ body {
   font-size: 5em;
   }
 
-a {
+a { font-size: 2.5em
   color: purple; }
   a:hover {
     color: #009ce0; }
@@ -65,24 +65,35 @@ h1 {
 
   }
 
-p {
+h2 {
     color: turquoise;
     font-size: 5em;
     font-family: sans-serif;
-    text-align: center
+    text-align: center;
 }
 
-body {
-    background-color: pink;
+p1 {
+    color: #f7b716;
+    font-size: 3em;
+    font-family: sans-serif;
+    text-align: center
+
+  }
+
+
+body { background-color: pink;
     font-family: sans-serif;
     text-align: center;
     color: green;
- }
-
-a { https://github.com/KenzieAnderson
-  
-    
+    font font-size: 3em
     }
+
+
+
+
+
+
+
 
 
 
