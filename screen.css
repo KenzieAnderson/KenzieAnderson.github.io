@@ -10,88 +10,89 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video { 
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 50%;
-  font: inherit;
-  vertical-align: baseline; }
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 50%;
+    font: inherit;
+    vertical-align: baseline; }
 
 body { 
   line-height: 1.5; }
 
-ol, ul {
-  list-style: none; }
+ul {  list-style-type: none;
+
+   }
 
 table {
-  border-collapse: collapse;
-  border-spacing: 0; }
+    border-collapse: collapse;
+    border-spacing: 0; }
 
 caption, th, td {
-  text-align: center;
-  font-weight: bold;
-  vertical-align: middle; }
+    text-align: center;
+    font-weight: bold;
+    vertical-align: middle; }
 
 q, blockquote {
-  quotes: none; }
+    quotes: none; }
   q:before, q:after, blockquote:before, blockquote:after {
     content: "";
     content: none; }
 
 a img { 
-  border: none; }
+    border: none; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
-  display: block; }
+    display: block; }
 
 body {
-  font-family: sans-serif
-  font-size: 5em;
+    font-family: sans-serif
+    font-size: 5em;
   }
 
-a { font-size: 2.5em
-  color: purple; }
-  a:hover {
-    color: #009ce0; }
 
 #main {
-  padding: 50px; }
+    padding: 50px; }
 
 h1 {
- font-size: 8em;
- color: powderblue; 
- font-family: sans-serif;
- text-align: center
-
+    font-size: 5em;
+    color:#b2aa89 ; 
+    font-family: sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    outline-style: double;
+    outline-color: black;
+    outline: thick ridge orange;
   }
 
 h2 {
-    color: turquoise;
-    font-size: 5em;
+    color: #b2aa89;
+    font-size: 4em;
     font-family: sans-serif;
     text-align: center;
 }
 
-p1 {
-    color: #f7b716;
-    font-size: 3em;
-    font-family: sans-serif;
-    text-align: center
-
-  }
-
-
-body { background-color: #fcde8d;
+body { 
+    background-color: #f7d23d;
     font-family: sans-serif;
     text-align: center;
     color: green;
-    font font-size: 3em
+    font font-size: 3em;
     }
 
+a:link, a:visited {
+    background-color: none;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
 
-
-
-
+a:hover {
+    color: black;
+    background-color: orange ;
+}
 
 
 
