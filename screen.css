@@ -52,7 +52,7 @@ body {
     padding: 50px; }
 
 h1  {
-    font-size: 4em;
+    font-size: 3em;
     color:#b2aa89 ; 
     font-family: sans-serif;
     text-align: center;
@@ -64,7 +64,7 @@ h1  {
 
 h2  {
     color: #b2aa89;
-    font-size: 2em;
+    font-size: 1em;
     font-family: sans-serif;
     text-align: center;
     }
@@ -79,7 +79,7 @@ body {
 
 a:link, a:visited {
     background-color: none;
-    color: white;
+    color: black;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -87,7 +87,6 @@ a:link, a:visited {
     }
 
 a:hover {
-    color: black;
     background-color: orange ;
     }
 
