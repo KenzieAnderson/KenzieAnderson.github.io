@@ -52,7 +52,7 @@ body {
     font-family: sans-serif
     }
 
-#main {
+div#main {
     border: 1px solid black;
     outline-style: double;
     outline-color: black;
@@ -64,8 +64,8 @@ h1#name {
     color: black ; 
     font-family: sans-serif;
     text-align: center;
-    border width; 5px;
-    border-style: dotted;
+    text-decoration: underline;
+    text-decoration-color: orange;
     }
 
 p#bio {
@@ -73,7 +73,7 @@ p#bio {
     font-size: 2em;
     font-family: sans-serif;
     text-align: center;
-}
+    }
 
 body { 
     background-image: url("backgroundimage.jpg");
@@ -99,15 +99,20 @@ a:hover {
 
 div#links {
     text-align: center;
-}
+    }
 
 img#zomb {
-    float: right;
+    float: center;
     border: 2px solid black;
+    }
 
-}
-
-
+h2#footer {
+    color: black;
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+    }
 
 
 
