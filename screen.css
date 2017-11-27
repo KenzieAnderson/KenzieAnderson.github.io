@@ -48,8 +48,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block; }
 
 body {
+    color: black;
     font-family: sans-serif
-    font-size: 5em; }
+    }
 
 #main {
     padding: 50px;
@@ -68,7 +69,7 @@ h1#name {
     color: black ; 
     font-family: sans-serif;
     text-align: center;
-    border: 2px solid black;
+     border: 2px solid black;
     outline-style: double;
     outline-color: black;
     outline: thick ridge orange;
@@ -79,10 +80,6 @@ h1#title {
     font-size: 2em;
     font-family: sans-serif;
     text-align: center;
-    border: 2px solid black;
-    outline-style: double;
-    outline-color: black;
-    outline: thick ridge orange;
     }
 
 p#bio {
@@ -90,10 +87,6 @@ p#bio {
     font-size: 2em;
     font-family: sans-serif;
     text-align: center;
-    border: 2px solid black;
-    outline-style: double;
-    outline-color: black;
-    outline: thick ridge orange;
 }
 
 body { 
@@ -127,6 +120,8 @@ img#zomb {
     float: right;
     width: 800;
     height: 300;
+    border: 1px solid black;
+
 }
 
 
