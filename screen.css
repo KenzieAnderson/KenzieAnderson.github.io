@@ -65,7 +65,7 @@ h1  {
     outline: thick ridge orange;
     }
 
-div#pageinfo {
+h2 {
     font-color: black;
     font-size: 2em;
     font-family: sans-serif;
@@ -75,6 +75,17 @@ div#pageinfo {
     outline-color: black;
     outline: thick ridge orange;
     }
+
+p {
+    font-color: black;
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    outline-style: double;
+    outline-color: black;
+    outline: thick ridge orange;
+}
 
 body { 
     background-image: url("backgroundimage.jpg");
