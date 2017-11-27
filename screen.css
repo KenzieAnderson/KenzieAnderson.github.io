@@ -53,7 +53,10 @@ body {
     }
 
 #main {
-    
+    border: 1px solid black;
+    outline-style: double;
+    outline-color: black;
+    outline: thick ridge orange;
      }
 
 h1#name {
@@ -61,10 +64,8 @@ h1#name {
     color: black ; 
     font-family: sans-serif;
     text-align: center;
-    border: 2px solid black;
-    outline-style: double;
-    outline-color: black;
-    outline: thick ridge orange;
+    border width; 5px;
+    border-style: dotted;
     }
 
 p#bio {
@@ -101,7 +102,7 @@ div#links {
 }
 
 img#zomb {
-    align-self: center;
+    float: right;
     border: 2px solid black;
 
 }
