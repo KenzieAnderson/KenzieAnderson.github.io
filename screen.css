@@ -64,8 +64,8 @@ h1#name {
     color: black ; 
     font-family: sans-serif;
     text-align: center;
-    text-decoration: orange underline;
-    text-decoration-color: orange;
+    text-decoration: thick silver underline;
+    text-decoration-color: silver;
     }
 
 p#bio {
@@ -103,12 +103,12 @@ div#links {
 
 img#zomb {
     float: center;
-    border: 2px solid black;
+    border: 10px solid silver;
     }
 
-h2#footer {
+p#zombcaption {
     color: black;
-    font-size: 2em;
+    font-size: 1em;
     font-family: sans-serif;
     text-align: center;
     font-style: italic;
